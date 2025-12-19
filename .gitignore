@@ -29,3 +29,7 @@ flutter_02.log
 .flutter-plugins-dependencies
 Flutter.podspec
 android/android.iml
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
